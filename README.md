@@ -11,7 +11,7 @@ The final result is printed after the end of the game.
 Good luck gaming!
 
 Example
-<!--
+```
 The greater-than symbol followed by space (> ) represents the user input. Notice that it's not the part of the input.
 
 ---------
@@ -68,4 +68,5 @@ Enter the coordinates: > 2 1
 | X X X |
 ---------
 X wins
--->
+
+```
